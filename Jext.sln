@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jext", "Jext\Jext.csproj", "{5FDA69A4-CA94-4315-84A4-916A7642BFED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jext.Tests", "Jext.Tests\Jext.Tests.csproj", "{2831CEEA-D60F-4CBD-97F9-9BE7C0DD84F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FDA69A4-CA94-4315-84A4-916A7642BFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDA69A4-CA94-4315-84A4-916A7642BFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDA69A4-CA94-4315-84A4-916A7642BFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDA69A4-CA94-4315-84A4-916A7642BFED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2831CEEA-D60F-4CBD-97F9-9BE7C0DD84F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2831CEEA-D60F-4CBD-97F9-9BE7C0DD84F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2831CEEA-D60F-4CBD-97F9-9BE7C0DD84F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2831CEEA-D60F-4CBD-97F9-9BE7C0DD84F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0C11828-0AF6-49CE-90FD-8AD8C559A160}
+	EndGlobalSection
+EndGlobal
