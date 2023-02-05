@@ -24,8 +24,8 @@ namespace Jext.Tests
                 "function a() { globalThis.value = 2; return globalThis.value } a", 
                 engineBaseId);
 
-            /* Calling the assignment function in the target engine from 
-               the base engine */
+            /* Calling the assignment function from the base engine in the
+               target engine */
 
             var targetInjectionResult = jextRuntime
                 .Execute(baseFunction, engineTargetId)
